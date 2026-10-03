@@ -1,9 +1,21 @@
 [project]
 name = "omr-automated-grader"
 version = "0.1.0"
-description = "Add your description here"
+description = "Real-time Optical Mark Recognition (OMR) automated grading system using OpenCV and Python."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "mohd-faizy" }
+]
+keywords = [
+    "omr",
+    "optical-mark-recognition",
+    "opencv",
+    "computer-vision",
+    "automated-grading",
+    "mcq-grader",
+]
 dependencies = [
     "numpy>=1.21.0",
     "opencv-python>=4.6.0",

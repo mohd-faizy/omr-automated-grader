@@ -37,7 +37,7 @@ An automated OMR system using OpenCV and Python to evaluate MCQ answer sheets in
 
 ```text
 omr-automated-grader/
-├── assets/                  # Media resources: benchmark sheets (1.jpg–5.jpg), template, demo video & GIF
+├── assets/                  # Media resources: benchmark sheets (1.jpg–5.jpg), template, demo videos & GIF
 ├── Scanned/                 # Output directory for exported graded scan results
 ├── src/                     # Core application source code
 │   ├── __init__.py          # Package initialization marker
